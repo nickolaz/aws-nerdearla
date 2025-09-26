@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/awsq/static/css/main.3786d81e.css",
+    "main.js": "/awsq/static/js/main.ba02453b.js",
+    "index.html": "/awsq/index.html",
+    "main.3786d81e.css.map": "/awsq/static/css/main.3786d81e.css.map",
+    "main.ba02453b.js.map": "/awsq/static/js/main.ba02453b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3786d81e.css",
+    "static/js/main.ba02453b.js"
+  ]
+}
