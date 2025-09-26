@@ -101,7 +101,7 @@ function App() {
   return (
     <div className="min-h-screen bg-gray-900 flex flex-col items-center justify-center p-4">
       <div className="text-center mb-6">
-        <img src="/assets/nerdearla-logo-ar.png" alt="Nerdear.la" className="h-16 mx-auto mb-4" />
+        <img src={`${process.env.PUBLIC_URL}/assets/nerdearla-logo-ar.png`} alt="Nerdear.la" className="h-16 mx-auto mb-4" />
         <div className="mb-4">
           <span className="text-2xl font-bold">
             <span className="text-green-500">C</span>
