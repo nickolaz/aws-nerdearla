@@ -2,7 +2,7 @@
   "name": "snake-game",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://nickolaz.github.io/awsq",
+  "homepage": "https://nickolaz.github.io/aws-nerdearla/",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
