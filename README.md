@@ -45,10 +45,9 @@ El juego se ejecutará en `http://localhost:3000`
 <!-- Sección para que el autor complete sus datos -->
 
 **Nombre**: Nicolas Ayala  
-**Email**: [Tu email aquí]  
-**LinkedIn**: [Tu perfil de LinkedIn]  
-**GitHub**: [Tu perfil de GitHub]  
-**Otros enlaces**: [Portafolio, redes sociales, etc.]
+**Email**: eduardoayalakoy@gmail.com
+**LinkedIn**: https://www.linkedin.com/in/nickolaz/
+**GitHub**: https://github.com/nickolaz
 
 ---
 
@@ -62,14 +61,14 @@ Este proyecto fue desarrollado con la asistencia de Amazon Q Developer. A contin
 
 [Adjunta aquí las imágenes del chat mostrando el proceso de desarrollo]
 
-**Imagen 1**: [Descripción de la primera captura]
-![Chat Amazon Q 1](ruta/a/imagen1.png)
+![alt text](image.png)
 
-**Imagen 2**: [Descripción de la segunda captura]  
-![Chat Amazon Q 2](ruta/a/imagen2.png)
-
-**Imagen 3**: [Descripción de la tercera captura]
-![Chat Amazon Q 3](ruta/a/imagen3.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
+![alt text](image-6.png)
 
 ### Proceso de Desarrollo
 
