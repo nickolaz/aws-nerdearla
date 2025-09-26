@@ -1,5 +1,7 @@
 # Snake Game - React
 
+🎮 **[JUGAR DEMO](https://nickolaz.github.io/aws-nerdearla/)**
+
 Un juego clásico de Snake desarrollado en React con controles táctiles y de teclado, estilizado con Tailwind CSS.
 
 ## Descripción del Proyecto
