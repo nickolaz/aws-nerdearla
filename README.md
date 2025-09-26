@@ -30,6 +30,14 @@ npm start
 
 El juego se ejecutará en `http://localhost:3000`
 
+## Deployment a GitHub Pages
+
+```bash
+npm run deploy
+```
+
+Esto creará automáticamente el build y lo subirá a GitHub Pages.
+
 ## Controles
 
 - **W**: Mover arriba
